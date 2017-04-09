@@ -4,9 +4,11 @@ body {
     padding: 50px;
     background-attachment: scroll;
 }
+
 h1 {
-    color:#212F3C;
+    color: #212F3C;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -27,11 +29,13 @@ li a {
     text-decoration: none;
 }
 
+
 /* Change the link color to #111 (black) on hover */
+
 li a:hover {
     background-color: #212F3C;
 }
+
 #table-content {
     margin: 0px -50px 50px -100px;
-
 }
