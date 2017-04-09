@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<head>
+<title> 그녀의 봄날 </title>
+<link href="file:///C:/Users/hp/Desktop/Webpage/Portfolio%20styling.css" rel="stylesheet" type="text/css">
+</head>
+
+<body style="background-color: #ECF0F1;">
+<header>
+<h1 align="center" style="font-size: 50px;"> The Imaginary girl </h1>
+
+<hr>
+<!-This border is for menu bar-!>
+</br>
+<ul>
+    <li><a href="file:///C:/Users/hp/Desktop/Webpage/Main.html">Home</a></li>
+    <li><a href="default.asp">Works</a></li>
+    <li><a href="default.asp">Contact</a></li>
+    <li><a href="default.asp">About</a></li>
+</ul>
+
+</br>
+
+<hr>
+
+</header>
+</br>
+
+<!-This border is for about me-!>
+<div class="table-aboutme">
+<table border="0" cellpadding="30" align="right" width="30%">
+    <div class="thaboutme">
+    <tr align="top">
+        <th colspan="1" style="font-size: 50px;"> About Her</th/>
+    </tr>
+    </div>
+    <tr>
+        <td style="background-color: #F4F6F7;">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique erat vel placerat euismod. Nullam venenatis congue elit consequat fermentum.</br> Vivamus faucibus, urna sed tincidunt faucibus, massa dolor ornare libero, eu tincidunt sem est id diam. Donec accumsan ac nulla ut molestie.</br> Nulla a iaculis velit. Sed commodo orci pellentesque enim molestie suscipit. Nulla vel laoreet massa. </br>Aenean ornare tortor vitae nunc mollis, varius bibendum dui bibendum. Integer pellentesque vestibulum nunc eget euismod. </br>Aenean mattis in justo nec feugiat. Sed efficitur purus a laoreet sollicitudin. Praesent eget commodo justo. Aenean at facilisis tortor. </p> </td>
+    </tr>
+</table>
+</div>
+
+<!-table for the content-!>
+<div class="table-content">
+<table border="0" cellpadding="30" float="left" width="60%" height="70%">
+    <tr align="top">
+        <th align="left" style="font-size: 50px;"> Welcome to Aline's Portfolio' </th>
+    </tr>
+    <div class="tableinfo">
+    <tr>
+        <td width="60%" height="70%" background-color="white"><p>Nullam varius feugiat sem. Proin ac purus mi. Integer vulputate odio vitae purus tincidunt, id tincidunt ipsum sodales. Fusce varius ultrices erat. In non quam a sem condimentum egestas non et mi. Vivamus lacus dui, porta sed ex nec, pharetra fermentum odio. Integer risus erat, mollis quis ex vel, rhoncus sodales sapien. Donec eget luctus arcu, vel interdum erat. Fusce consequat magna eu vestibulum sagittis. Nam congue ullamcorper convallis. Fusce eros dui, blandit a molestie eu, volutpat vitae diam. Aenean viverra vulputate lacus.
+
+Nunc finibus, erat nec bibendum hendrerit, magna nulla consequat purus, sed fermentum ante purus sed magna. Sed venenatis eu diam vitae laoreet. Praesent aliquam a ex quis porttitor. Aenean dui mauris, imperdiet nec imperdiet nec, gravida auctor tortor. Sed tempor velit vel risus facilisis fringilla. Integer et pellentesque arcu. Morbi neque quam, convallis id porttitor id, dapibus et nunc.
+
+In congue nibh sed viverra porttitor. Quisque laoreet dolor non volutpat maximus. Vivamus scelerisque facilisis odio nec vulputate. Fusce at tincidunt augue. Vestibulum ultrices, felis non laoreet vulputate, mi mi condimentum ante, at egestas nisi nibh non elit. Pellentesque quis magna sit amet erat aliquam bibendum. Pellentesque rhoncus pretium enim, eget ornare mi sagittis id. Nullam varius feugiat sem. Proin ac purus mi. Integer vulputate odio vitae purus tincidunt, id tincidunt ipsum sodales. Fusce varius ultrices erat. In non quam a sem condimentum egestas non et mi. Vivamus lacus dui, porta sed ex nec, pharetra fermentum odio. Integer risus erat, mollis quis ex vel, rhoncus sodales sapien. Donec eget luctus arcu, vel interdum erat. Fusce consequat magna eu vestibulum sagittis. Nam congue ullamcorper convallis. Fusce eros dui, blandit a molestie eu, volutpat vitae diam. Aenean viverra vulputate lacus.
+
+Nunc finibus, erat nec bibendum hendrerit, magna nulla consequat purus, sed fermentum ante purus sed magna. Sed venenatis eu diam vitae laoreet. Praesent aliquam a ex quis porttitor. Aenean dui mauris, imperdiet nec imperdiet nec, gravida auctor tortor. Sed tempor velit vel risus facilisis fringilla. Integer et pellentesque arcu. Morbi neque quam, convallis id porttitor id, dapibus et nunc.
+
+In congue nibh sed viverra porttitor. Quisque laoreet dolor non volutpat maximus. Vivamus scelerisque facilisis odio nec vulputate. Fusce at tincidunt augue. Vestibulum ultrices, felis non laoreet vulputate, mi mi condimentum ante, at egestas nisi nibh non elit. Pellentesque quis magna sit amet erat aliquam bibendum. Pellentesque rhoncus pretium enim, eget ornare mi sagittis id. Nullam varius feugiat sem. Proin ac purus mi. Integer vulputate odio vitae purus tincidunt, id tincidunt ipsum sodales. Fusce varius ultrices erat. In non quam a sem condimentum egestas non et mi. Vivamus lacus dui, porta sed ex nec, pharetra fermentum odio. Integer risus erat, mollis quis ex vel, rhoncus sodales sapien. Donec eget luctus arcu, vel interdum erat. Fusce consequat magna eu vestibulum sagittis. Nam congue ullamcorper convallis. Fusce eros dui, blandit a molestie eu, volutpat vitae diam. Aenean viverra vulputate lacus.
+
+Nunc finibus, erat nec bibendum hendrerit, magna nulla consequat purus, sed fermentum ante purus sed magna. Sed venenatis eu diam vitae laoreet. Praesent aliquam a ex quis porttitor. Aenean dui mauris, imperdiet nec imperdiet nec, gravida auctor tortor. Sed tempor velit vel risus facilisis fringilla. Integer et pellentesque arcu. Morbi neque quam, convallis id porttitor id, dapibus et nunc.
+
+In congue nibh sed viverra porttitor. Quisque laoreet dolor non volutpat maximus. Vivamus scelerisque facilisis odio nec vulputate. Fusce at tincidunt augue. Vestibulum ultrices, felis non laoreet vulputate, mi mi condimentum ante, at egestas nisi nibh non elit. Pellentesque quis magna sit amet erat aliquam bibendum. Pellentesque rhoncus pretium enim, eget ornare mi sagittis id.</p>
+        </td>
+        </div>
+
+</table>
+</div>
+
+<table style="align-content:right;">
+    <tr align="top">
+        <td> <img src="file:///G:/PCS%20Related/Untitled-3.png" alt="banner.png" > </td>
+    </tr>
+</table>
+
+
+</body>
+</html>
